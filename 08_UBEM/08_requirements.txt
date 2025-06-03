@@ -1,0 +1,16 @@
+Requirements:
+
+Ladybug Tools==1.8.0
+Python==3.10.10
+OpenStudio==3.7.0
+OpenStudio App==1.7.0
+URBANopt CLI==0.11.1
+Rhino==8.4
+
+FSee Dragonfly compatibility matrix: https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.4-Compatibility-Matrix
+
+OPTIONAL:
+
+Urbano==v1.5.1.0
+(Urbano is not required since the GIS data has been internalized, 
+but one can see how the GIS data is imported in to the Grasshopper model.)
