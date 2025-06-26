@@ -1,5 +1,8 @@
 Repository for the research paper, "Detecting window-to-wall ratio for urban-scale building simulations using deep learning with street view imagery and an automatic classification algorithm".
 
+Journal: Building Simulation (in press 2025)
+Authors: Suppa, A.R., Aliberti, A., Bottero, M.C., & Corrado, V.
+
 The workflow uses the following 8 components:
 1. Prepare GIS file:
    - Identifies which building line segments are street-facing where orthogonal images from Google Street View (GSV) are expected.
