@@ -3,7 +3,9 @@ Repository for the research paper, "Detecting window-to-wall ratio for urban-sca
 Journal: Building Simulation (in press 2025)
 
 Authors: Suppa, A.R., Aliberti, A., Bottero, M.C., & Corrado, V.
-
+<pre>
+   
+</pre>
 
 The workflow uses the following 8 components:
 1. Prepare GIS file:
