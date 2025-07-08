@@ -1,6 +1,6 @@
 Repository for the research paper, "Detecting window-to-wall ratio for urban-scale building simulations using deep learning with street view imagery and an automatic classification algorithm".
 
-Journal: Building Simulation, 28 Jun3 2025 <br />
+Journal: Building Simulation, 28 June 2025 <br />
 Authors: Suppa, A.R., Aliberti, A., Bottero, M.C., & Corrado, V. <br />
 DOI: https://doi.org/10.1007/s12273-025-1301-3 
 <br />
